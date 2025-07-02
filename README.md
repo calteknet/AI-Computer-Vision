@@ -1,5 +1,5 @@
 
-# Art to Tale
+# Art to Tale 🎨📖
 
 **Transform artwork into short, AI-generated stories.**  
 Art to Tale is a Gradio-based web application that turns uploaded images into creative narratives using a fine-tuned image captioning model.
