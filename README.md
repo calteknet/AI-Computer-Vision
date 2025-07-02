@@ -81,7 +81,7 @@ Running on local URL:  http://127.0.0.1:7860
 Running on public URL: https://05ef9bcad68d489a5a.gradio.live
 ```
 
-You can open either URL in your browser to interact with the app.\
+You can open either URL in your browser to interact with the app.
 
 ---
 
